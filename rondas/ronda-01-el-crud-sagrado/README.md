@@ -23,8 +23,11 @@ Solitario
 El sofware debe ser un CRUD lo que debe hacer es lo siguiente:
 
 -Create (Crear): Permite insertar nuevos registros o datos en el sistema (por ejemplo, registrar un nuevo usuario o crear una publicación).
+
 -Read (Leer): Permite consultar, buscar o visualizar la información almacenada (por ejemplo, ver el perfil de un amigo o buscar un producto).
+
 -Update (Actualizar): Permite modificar los datos que ya existen sin necesidad de crear un registro nuevo (por ejemplo, cambiar tu contraseña o editar tu dirección de envío).
+
 -Delete (Borrar): Permite eliminar o dar de baja un registro que ya no es necesario (por ejemplo, borrar una foto o cancelar una cuenta).
 
 ## Recursos recomendados
