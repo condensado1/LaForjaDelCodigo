@@ -5,10 +5,11 @@ Gracias por participar en **La Forja del Código** 🙌
 ## ¿Cómo entregar tu proyecto?
 
 1. Revisa la ronda activa dentro de `rondas/`.
-2. Elige el flujo indicado por la organización:
-   - **Opción A: Fork + Pull Request** (si trabajas desde tu copia del repo).
-   - **Opción B: Rama en este repo** (si tienes permisos directos).
-3. Sube tu código en la ruta definida para la ronda: `[texto a completar]`.
+2. Elige el flujo indicado:
+   - **Opción A: Descargar un zip de la ronda --> trabajar local y subir remoto / crear el repo remoto y trabajarlo en local** .
+   - **Opción B: Crear un repo manual copiando la descripción de las rondas**.
+3. El repositorio debe quedar privado.
+4. Al momento de entregar el los proyectos solo dejar en publico y lo revisamos asincrónico. 
 
 ## Convención de nombre para tu entrega
 
@@ -17,8 +18,8 @@ Gracias por participar en **La Forja del Código** 🙌
 
 ## Plazo de entrega
 
-- Fecha límite por ronda: **[texto a completar]**
-- Entregas fuera de plazo: **[texto a completar]**
+- Fecha límite por ronda: **1 a 2 semanas o 1 a 4 semanas**
+- Entregas fuera de plazo: **No deberian existir, pero se abrira un dia pequeño si quieres que los demas comenten tu codigo**
 
 ## Antes de enviar
 
