@@ -8,4 +8,4 @@ En **La Forja del Código** buscamos una comunidad saludable y útil para tod@s.
 - No copies código ajeno sin dar crédito explícito a la fuente.
 - Mantén un ambiente colaborativo: aquí se aprende en equipo, no se compite por “ganar”.
 
-Si ves una situación incómoda o inadecuada, repórtala a la organización: **[texto a completar]**.
+Si ves una situación incómoda o inadecuada, repórtala al administrador del repositorio condensado1 u otros administradores**.
