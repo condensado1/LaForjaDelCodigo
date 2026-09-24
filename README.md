@@ -2,7 +2,7 @@
 
 Bienvenid@ a **La Forja del Código** 🚀
 
-Este evento reúne a programadores para construir mini proyectos en rondas rotativas de distintas tecnologías, con una duración de **1 a 4 semanas**. La meta es practicar, iterar y aprender en comunidad.
+Este evento reúne a programadores para construir mini proyectos en rondas rotativas de distintas tecnologías, con una duración de **1 a 4 semanas**. La meta es practicar, iterar y aprender en comunidad. Por ahora todo esto es una beta cerrada pero si funciona se unirá más gente.
 
 ## ¿Cómo funciona?
 
