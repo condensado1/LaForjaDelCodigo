@@ -39,7 +39,7 @@ la-forja-del-codigo/
         └── README.md
 ```
 
-## Participantes y estado de ronda
+## Participantes y estado de ronda actual
 
 | # | Nombre | Tecnología | Duración | Estado |
 |---|--------|------------|----------|--------|
