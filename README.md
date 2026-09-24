@@ -7,11 +7,11 @@ Este evento reúne a programadores para construir mini proyectos en rondas rotat
 ## ¿Cómo funciona?
 
 1. **Inscripción**
-   - Te sumas a la ronda activa en el canal/hilo oficial.
+   - Te sumas a la ronda activa en el canal/hilo oficial (Comunidad de WhatsApp o contactando con el administrador [condensado1] ).
 2. **Desarrollo**
    - Construyes tu mini proyecto en la tecnología definida para esa ronda.
 3. **Entrega**
-   - Publicas tu proyecto dentro del plazo de la ronda.
+   - Avisas que tu proyecto esta terminado dentro del plazo de la ronda.
 4. **Evaluación entre pares**
    - Revisas y recibes feedback de otros participantes con foco en aprendizaje.
 
