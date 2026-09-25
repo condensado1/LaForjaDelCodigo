@@ -112,6 +112,7 @@ node_modules/
 - [Git - Guía oficial](https://git-scm.com/doc)
 - [Aprende Git ramificando (interactivo)](https://learngitbranching.js.org/)
 - [Pro Git (libro gratuito, en español)](https://git-scm.com/book/es/v2)
+- [Midu.dev Buenas practicas para commits)](https://midu.dev/buenas-practicas-escribir-commits-git/)
 
 ## 📺 Videos sugeridos
 
