@@ -1,18 +1,18 @@
 # 🧭 Consejos de uso de Git
 
-Guia rapida con lo esencial de Git para participar en las rondas de **La Forja del Código**. No pretende ser un curso completo, sino un resumen practico de los comandos que más vas a usar.
+Guía rápida con lo esencial de Git para participar en las rondas de **La Forja del Código**. No pretende ser un curso completo, sino un resumen práctico de los comandos que más vas a usar.
 
 ## Índice
 
 - [Configuración inicial](#configuración-inicial-solo-una-vez-por-equipo)
 - [Crear o iniciar un repositorio](#crear-o-iniciar-un-repositorio)
-- [Flujo basico del día a día](#flujo-básico-del-día-a-día)
+- [Flujo básico del día a día](#flujo-básico-del-día-a-día)
 - [Ramas (branches)](#ramas-branches)
 - [Remotos](#remotos)
 - [Revisar historial](#revisar-historial)
 - [Deshacer cambios](#deshacer-cambios-los-comandos-que-salvan-vidas)
 - [.gitignore](#gitignore)
-- [Buenas practicas rápidas](#buenas-prácticas-rápidas)
+- [Buenas prácticas rápidas](#buenas-prácticas-rápidas)
 - [Documentación sugerida](#-documentación-sugerida)
 
 ---
@@ -101,7 +101,7 @@ node_modules/
 
 - Haz `git status` antes de cada `add`, así sabes exactamente qué estás por subir.
 - Nunca hagas `git add .` a ciegas sin revisar qué archivos cambiaron.
-- Usa mensajes de commit descriptivos (ver [`commit-guidelines.md`](./commit-guidelines.md) del repo).
+- Usa mensajes de commit descriptivos (ver [`commit-guidelines.md`](../commit-guidelines.md) del repo).
 - Haz `git pull` antes de empezar a trabajar si estás en equipo, para evitar conflictos.
 - Si algo sale mal, respira: casi todo en Git se puede solucionar. Pregunta antes de forzar algo (`--force`, `--hard`).
 
@@ -112,7 +112,7 @@ node_modules/
 - [Git - Guía oficial](https://git-scm.com/doc)
 - [Aprende Git ramificando (interactivo)](https://learngitbranching.js.org/)
 - [Pro Git (libro gratuito, en español)](https://git-scm.com/book/es/v2)
-- [Midu.dev Buenas practicas para commits)](https://midu.dev/buenas-practicas-escribir-commits-git/)
+- [Midu.dev - Buenas prácticas para commits](https://midu.dev/buenas-practicas-escribir-commits-git/)
 
 ## 📺 Videos sugeridos
 

@@ -2,17 +2,17 @@
 
 ## Tema
 
-Se tendra que usar Djago para crear un CRUD basico 
+Se tendrá que usar Django para crear un CRUD básico.
 
 ## Tecnología obligatoria
 
-- La base de datos PostgreSql
-- Framework Django con el lenguaje python. 
-- Pueden usar bootstrap o css para decorar (Opcional)
+- La base de datos PostgreSQL
+- Framework Django con el lenguaje Python.
+- Pueden usar Bootstrap o CSS para decorar (Opcional)
 
 ## Duración
 
-Hasta el 4 de Octubre con posibilidad de extención
+Hasta el 4 de octubre con posibilidad de extensión
 
 ## Modalidad (solo/equipo)
 
@@ -20,15 +20,15 @@ Solitario
 
 ## Requisitos
 
-El sofware debe ser un CRUD lo que debe hacer es lo siguiente:
+El software debe ser un CRUD, lo que debe hacer es lo siguiente:
 
--Create (Crear): Permite insertar nuevos registros o datos en el sistema (por ejemplo, registrar un nuevo usuario o crear una publicación).
+- Create (Crear): Permite insertar nuevos registros o datos en el sistema (por ejemplo, registrar un nuevo usuario o crear una publicación).
 
--Read (Leer): Permite consultar, buscar o visualizar la información almacenada (por ejemplo, ver el perfil de un amigo o buscar un producto).
+- Read (Leer): Permite consultar, buscar o visualizar la información almacenada (por ejemplo, ver el perfil de un amigo o buscar un producto).
 
--Update (Actualizar): Permite modificar los datos que ya existen sin necesidad de crear un registro nuevo (por ejemplo, cambiar tu contraseña o editar tu dirección de envío).
+- Update (Actualizar): Permite modificar los datos que ya existen sin necesidad de crear un registro nuevo (por ejemplo, cambiar tu contraseña o editar tu dirección de envío).
 
--Delete (Borrar): Permite eliminar o dar de baja un registro que ya no es necesario (por ejemplo, borrar una foto o cancelar una cuenta).
+- Delete (Borrar): Permite eliminar o dar de baja un registro que ya no es necesario (por ejemplo, borrar una foto o cancelar una cuenta).
 
 ## Recursos recomendados
 
@@ -44,9 +44,9 @@ El sofware debe ser un CRUD lo que debe hacer es lo siguiente:
 
 ## Formato de entrega
 
-Se revisara en asincronico deade el repositorio del participante, se opinara en el chat general de la comunidad.
+Se revisará en asincrónico desde el repositorio del participante, se opinará en el chat general de la comunidad.
 
 ## Fecha de inicio y cierre
 
 - Inicio: 23 de septiembre
-- Cierre: 4 de octubre con posibilidad de extención
+- Cierre: 4 de octubre con posibilidad de extensión

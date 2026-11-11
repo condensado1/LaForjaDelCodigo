@@ -101,17 +101,17 @@ Esto no te resta mérito — al contrario, ayuda a que todos aprendamos también
 - **Compara respuestas de distintas IAs** si algo no te queda claro; a veces una explica mejor que otra un mismo concepto.
 - **No le tengas miedo a la IA, ni dependencia ciega de ella.** El objetivo de la Forja es que salgas de cada ronda sabiendo hacer algo que no sabías antes — con o sin IA de por medio, eso depende de ti.
 - **Recuerda o investiga algunos fundamentos de la IA que utilices, crea skills (o como lo llame la IA que uses) para optimizar el contexto**
-- Tambien puedes pasar documentos y convertirlos en formato markdown en paginas gratuitas de internet para ahorrar tokens.
+- También puedes pasar documentos y convertirlos en formato markdown en páginas gratuitas de internet para ahorrar tokens.
 
-## 💡 Repositorios utiles para mejorar el trabajo de la IA
+## 💡 Repositorios útiles para mejorar el trabajo de la IA
 
--[Repositorio oficial de antropic para skills](https://github.com/anthropics/skills)
--[Repositorio de multiples Skills](https://github.com/obra/superpowers)
+- [Repositorio oficial de Anthropic para skills](https://github.com/anthropics/skills)
+- [Repositorio de múltiples Skills](https://github.com/obra/superpowers)
 
-## 📚 Documentacion que puede ayudar
+## 📚 Documentación que puede ayudar
 
--[Documentación oficial de antropic Skills](https://platform.claude.com/docs/es/agents-and-tools/agent-skills/best-practices)
+- [Documentación oficial de Anthropic Skills](https://platform.claude.com/docs/es/agents-and-tools/agent-skills/best-practices)
 
 ## 📺 Videos que pueden ayudar
 
---[Juan gabriel- Tutorial de skill de Claude](https://www.youtube.com/watch?v=h9C4fLQM_2I)
+- [Juan Gabriel - Tutorial de skill de Claude](https://www.youtube.com/watch?v=h9C4fLQM_2I)
