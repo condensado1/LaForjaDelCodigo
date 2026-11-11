@@ -7,11 +7,11 @@ Este evento reúne a programadores para construir mini proyectos en rondas rotat
 ## ¿Cómo funciona?
 
 1. **Inscripción**
-   - Te sumas a la ronda activa en el canal/hilo oficial (Comunidad de WhatsApp o contactando con el administrador [condensado1] ).
+   - Te sumas a la ronda activa en el canal/hilo oficial (Comunidad de WhatsApp o contactando con el administrador [condensado1]).
 2. **Desarrollo**
    - Construyes tu mini proyecto en la tecnología definida para esa ronda.
 3. **Entrega**
-   - Avisas que tu proyecto esta terminado dentro del plazo de la ronda.
+   - Avisas que tu proyecto está terminado dentro del plazo de la ronda.
 4. **Evaluación entre pares**
    - Revisas y recibes feedback de otros participantes con foco en aprendizaje.
 
@@ -31,11 +31,18 @@ la-forja-del-codigo/
 ├── CODE_OF_CONDUCT.md
 ├── commit-guidelines.md
 ├── docs/
-│   ├── plantilla-readme.md
+│   ├── aprendizaje-de-git.md
+│   ├── checklist-documentacion.md
 │   ├── checklist-seguridad.md
-│   └── checklist-documentacion.md
+│   ├── consejos-uso-docker.md
+│   ├── plantilla-readme.md
+│   └── uso-etico-de-ia.md
 └── rondas/
-    └── ronda-00-ejemplo/
+    ├── ronda-00-ejemplo/
+    │   └── README.md
+    ├── ronda-01-el-crud-sagrado/
+    │   └── README.md
+    └── ronda-02-el-contenedor-errante/
         └── README.md
 ```
 
@@ -43,5 +50,5 @@ la-forja-del-codigo/
 
 | # | Nombre | Tecnología | Duración | Estado |
 |---|--------|------------|----------|--------|
-| 1 | El CRUD sagrado | Python + Django | 4 de octubre | Completado |
-| 2 | El Contenedor Errante | FastAPI + Docker | 25 de Noviembre | En progreso|
+| 1 | El CRUD sagrado | Python + Django | 2 semanas | Completado |
+| 2 | El Contenedor Errante | FastAPI + Docker | 2 semanas | En progreso |
