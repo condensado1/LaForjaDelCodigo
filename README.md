@@ -39,8 +39,9 @@ la-forja-del-codigo/
         └── README.md
 ```
 
-## Participantes y estado de ronda actual
+## Estado de ronda actual
 
 | # | Nombre | Tecnología | Duración | Estado |
 |---|--------|------------|----------|--------|
-| 1 | [texto a completar] | [texto a completar] | [texto a completar] | [texto a completar] |
+| 1 | El CRUD sagrado | Python + Django | 4 de octubre | Completado |
+| 2 | El Contenedor Errante | FastAPI + Docker | 25 de Noviembre | En progreso|
